@@ -1,2 +1,3 @@
 # zadanya
 zadaniyani yuklash
+"# barber" 
