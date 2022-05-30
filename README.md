@@ -1,0 +1,2 @@
+# zadanya
+zadaniyani yuklash
